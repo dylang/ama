@@ -1,10 +1,8 @@
 # Ask me anything!
 
-## [Ask a question](https://github.com/sindresorhus/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read questions](https://github.com/sindresorhus/ama/issues?q=is%3Aissue+is%3Aclosed)
+## [Ask a question](https://github.com/dylang/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read questions](https://github.com/dylang/ama/issues?q=is%3Aissue+is%3Aclosed)
 
-I get a lot of questions by email. This way anyone can read the answer.
-
-Anything means anything. Personal questions. Money. Life. Code. Whatever.
+I'm a fan of everything [Sindre Sorhus](github.com/sindresorhus/ama) does, so I've forked his repo to join in the AMA fun.
 
 -
 
@@ -17,7 +15,7 @@ Anything means anything. Personal questions. Money. Life. Code. Whatever.
 
 -
 
-*I can also be reached on [Twitter](https://twitter.com/sindresorhus) and [email](mailto:sindresorhus@gmail.com), but I prefer this medium.*
+I'm on [Twitter](https://twitter.com/dylang) but I mostly lurk. 
 
 -
 
