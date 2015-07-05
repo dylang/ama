@@ -2,7 +2,7 @@
 
 ## [Ask a question](https://github.com/dylang/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read questions](https://github.com/dylang/ama/issues?q=is%3Aissue+is%3Aclosed)
 
-I'm a fan of everything [Sindre Sorhus](github.com/sindresorhus/ama) does, so I've forked his repo to join in the AMA fun.
+I'm a fan of everything [Sindre Sorhus](https://github.com/sindresorhus) does, so I've forked his [AMA repo](https://github.com/sindresorhus/ama) to join in the AMA fun.
 
 -
 
@@ -15,7 +15,7 @@ I'm a fan of everything [Sindre Sorhus](github.com/sindresorhus/ama) does, so I'
 
 -
 
-I'm on [Twitter](https://twitter.com/dylang) but I mostly lurk. 
+I'm on [Twitter](https://twitter.com/dylang) but I don't post much. 
 
 -
 
